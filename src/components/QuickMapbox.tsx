@@ -5,9 +5,11 @@ import type { Feature, Point } from 'geojson'
 const QuickMapbox = ({
   mapboxAccessToken,
   features,
+  mapboxStyle = 'mapbox://styles/mapbox/light-v11',
 }: {
   mapboxAccessToken: string
   features: Feature<Point>[]
+  mapboxStyle?: string
 }) => {
   const mapContainer = useRef(null)
   const [map, setMap] = useState<mapboxgl.Map | null>(null)
@@ -21,11 +23,10 @@ const QuickMapbox = ({
     }
     const newMap = new mapboxgl.Map({
       container,
-      style: 'mapbox://styles/mapbox/streets-v12', // Choose a style
-      center: [-74.5, 40], // Initial center (adjust as needed)
+      style: mapboxStyle, // Choose a style
+      center: features[0].geometry.coordinates as [number, number], // Initial center (adjust as needed)
       zoom: 9,
     })
-
     newMap.on('load', () => {
       // Add source for points
       newMap.addSource('points', {
@@ -44,8 +45,9 @@ const QuickMapbox = ({
         source: 'points',
         paint: {
           'circle-radius': 6,
-          'circle-color': '#f00', // Red
-          'circle-opacity': 0.7, // Make the circles semitransparent
+          'circle-color': '#007bff',
+
+          'circle-opacity': 0.5, // Make the circles semitransparent
         },
       })
 
@@ -80,7 +82,9 @@ const QuickMapbox = ({
     }
   }, [mapboxAccessToken, features])
 
-  return <div ref={mapContainer} style={{ width: '100vw', height: '100vh' }} />
+  return (
+    <div ref={mapContainer} style={{ width: '100vw', height: '100vh' }}></div>
+  )
 }
 
 export default QuickMapbox

@@ -1,0 +1,2525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.2134046, 56.1496278]
+      },
+      "properties": {
+        "name": "Aarhus University",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "url": "http://www.au.dk/en/",
+        "id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Administration judicaire",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.justice.public.lu/fr/index.html",
+        "id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Agence nationale de la Recherche",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://www.agence-nationale-recherche.fr/",
+        "id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1321121, 49.5806013]
+      },
+      "properties": {
+        "name": "Andr\u00e9 Losch Fondation",
+        "city": "Howald",
+        "country": "Luxembourg",
+        "url": "",
+        "id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060152, 40.7127281]
+      },
+      "properties": {
+        "name": "Andrew Mellon Foundation",
+        "city": "New York, NY",
+        "country": "United States of America",
+        "url": "https://mellon.org/",
+        "id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "ArcelorMittal  Luxembourg",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://luxembourg.arcelormittal.com/",
+        "id": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3588795, 46.2311749]
+      },
+      "properties": {
+        "name": "Archives de l'\u00c9tat du Valais",
+        "city": "Sion",
+        "country": "Switzerland",
+        "url": "https://www.vs.ch/web/culture/aev",
+        "id": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Archives historiques du Parlement europ\u00e9en",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.europarl.europa.eu/aboutparliament/fr/20150201PVL00023/Archives-historiques",
+        "id": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Archives nationales de Luxembourg",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://anlux.public.lu/fr.html",
+        "id": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1600549, 49.8690898]
+      },
+      "properties": {
+        "name": "Association du Mus\u00e9e National d'Histoire Militaire",
+        "city": "Diekirch",
+        "country": "Luxembourg",
+        "url": "http://www.mnhm.lu",
+        "id": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9850306, 49.4959628]
+      },
+      "properties": {
+        "name": "Association frESCH a.s.b.l",
+        "city": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "url": "https://freschasbl.com/",
+        "id": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Association luxembourgeoise des enseignants d'histoire",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "",
+        "id": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.3297921, 50.9793301]
+      },
+      "properties": {
+        "name": "Bauhaus Universit\u00e4t Weimar_Professur Geschichte und Theorie der Kulturtechniken",
+        "city": "Weimar",
+        "country": "Germany",
+        "url": "https://www.uni-weimar.de/de/medien/professuren/medienwissenschaft/geschichte-und-theorie-der-kulturtechniken/willkommen/",
+        "id": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5753822, 48.1371079]
+      },
+      "properties": {
+        "name": "Bayrischer Rundfunk",
+        "city": "Munich",
+        "country": "Germany",
+        "url": "https://www.br.de/unternehmen/inhalt/organisation/bayerischer-rundfunk-information-in-english-100.html",
+        "id": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1780374, 51.264018]
+      },
+      "properties": {
+        "name": "Bergische Universit\u00e4t Wuppertal_Interdisziplin\u00e4res Zentrum f\u00fcr Wissenschafts- und Technikforschung",
+        "city": "Wuppertal",
+        "country": "Germany",
+        "url": "https://www.izwt.uni-wuppertal.de/index.php?id=1191",
+        "id": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "BGL BNP Paribas",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://www.bgl.lu",
+        "id": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Biblioth\u00e8que Nationale de Luxembourg",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "www.bnl.lu",
+        "id": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5879629, 44.8088438]
+      },
+      "properties": {
+        "name": "Bordeaux INP",
+        "city": "Talence",
+        "country": "France",
+        "url": "https://www.bordeaux-inp.fr/fr",
+        "id": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0847792, 49.4786477]
+      },
+      "properties": {
+        "name": "Bunker Palace",
+        "city": "Dudelange",
+        "country": "Luxembourg",
+        "url": "https://bunkerpalace.com/",
+        "id": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Bureau d'information du Parlement europ\u00e9en",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.europarl.europa.eu/luxembourg/fr/home.html",
+        "id": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9850306, 49.4959628]
+      },
+      "properties": {
+        "name": "Capitale Europ\u00e9enne de la Culture 2022 ASBL",
+        "city": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "url": "www.esch2022.lu",
+        "id": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1066591, 49.7506746]
+      },
+      "properties": {
+        "name": "capybarabooks",
+        "city": "Mersch",
+        "country": "Luxembourg",
+        "url": "https://www.capybarabooks.com/",
+        "id": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3296526, 50.8390983]
+      },
+      "properties": {
+        "name": "CEGESOMA - Centre d'\u00c9tude Guerre et Soci\u00e9t\u00e9",
+        "city": "Anderlecht",
+        "country": "Belgium",
+        "url": "https://www.cegesoma.be/",
+        "id": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.0315921, 49.841952]
+      },
+      "properties": {
+        "name": "Center for urban history of east central europe",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "https://www.lvivcenter.org/en/",
+        "id": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Centre Culturel de Rencontre Abbaye de Neum\u00fcnster",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://www.neimenster.lu/",
+        "id": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351697, 50.8465573]
+      },
+      "properties": {
+        "name": "Centre d'\u00c9tudes et Documentation Guerre et Soci\u00e9t\u00e9s contemporaines",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "url": "http://www.cegesoma.be/cms/index_fr.php",
+        "id": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0847792, 49.4786477]
+      },
+      "properties": {
+        "name": "Centre de documentation sur les migrations humaines",
+        "city": "Dudelange",
+        "country": "Luxembourg",
+        "url": "https://www.cdmh.lu/",
+        "id": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.0591397, 52.4009309]
+      },
+      "properties": {
+        "name": "Centre for Contemporary History",
+        "city": "Potsdam",
+        "country": "Germany",
+        "url": "http://zzf-potsdam.de/en/centre-contemporary-history-0",
+        "id": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0847792, 49.4786477]
+      },
+      "properties": {
+        "name": "Centre National de l'Audiovisuel",
+        "city": "Dudelange",
+        "country": "Luxembourg",
+        "url": "http://www.cna.public.lu/fr/index.html",
+        "id": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Centre National de la Recherche Scientifique",
+        "city": "Paris",
+        "country": "France",
+        "url": "www.cnrs.fr",
+        "id": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1066591, 49.7506746]
+      },
+      "properties": {
+        "name": "Centre national de litt\u00e9rature",
+        "city": "Mersch",
+        "country": "Luxembourg",
+        "url": "https://cnl.public.lu/fr/index.html",
+        "id": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Chambre des Salari\u00e9s",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://www.csl.lu",
+        "id": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060152, 40.7127281]
+      },
+      "properties": {
+        "name": "CHIM Archive (David Seymour)",
+        "city": "New York",
+        "country": "United States of America",
+        "url": "",
+        "id": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "CNRS_Institut d'Histoire du Temps Pr\u00e9sent",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://www.ihtp.cnrs.fr/",
+        "id": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351697, 50.8465573]
+      },
+      "properties": {
+        "name": "Commission europ\u00e9enne",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "url": "",
+        "id": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4829321, 41.8933203]
+      },
+      "properties": {
+        "name": "Consiglio Nazionale delle Ricerche",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://www.cnr.it/en",
+        "id": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.2651762, 38.9013729]
+      },
+      "properties": {
+        "name": "Corporation for Digital Scholarship",
+        "city": "Vienna, Virginia",
+        "country": "United States of America",
+        "url": "",
+        "id": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Cour sup\u00e9rieure de Justice",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.justice.public.lu/fr/annuaire/cour-superieure-justice/",
+        "id": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.226772, 51.2085526]
+      },
+      "properties": {
+        "name": "Cudeso",
+        "city": "Brugge",
+        "country": "Belgium",
+        "url": "https://www.cudeso.be/",
+        "id": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "DARIAH ERIC - Digital Research Infrastructure for the Arts and Humanities as a European Research Infrastructure Consortium",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://www.dariah.eu/",
+        "id": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3989367, 52.510885]
+      },
+      "properties": {
+        "name": "De Gruyter",
+        "city": "Berlin",
+        "country": "Germany",
+        "url": "https://www.degruyter.com",
+        "id": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.996379, 49.234362]
+      },
+      "properties": {
+        "name": "Deutsch-Franz\u00f6sische Hochschule",
+        "city": "Saarbr\u00fccken",
+        "country": "Germany",
+        "url": "https://www.dfh-ufa.org/",
+        "id": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1024635, 50.7352621]
+      },
+      "properties": {
+        "name": "Deutsche Forschungsgemeinschaft",
+        "city": "Bonn",
+        "country": "Germany",
+        "url": "http://www.dfg.de",
+        "id": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0847792, 49.4786477]
+      },
+      "properties": {
+        "name": "Dominique Santana",
+        "city": "Dudelange",
+        "country": "Luxembourg",
+        "url": "",
+        "id": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "\u00c9cole des Hautes \u00c9tudes en Sciences Sociales",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://www.ehess.fr/fr",
+        "id": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Ecole internationale des sciences du traitement de l'information",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://eisti.fr",
+        "id": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Ecole normale sup\u00e9rieure_Institut d'histoire moderne et contemporaine",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://www.ens.fr/laboratoire/institut-d-histoire-moderne-et-contemporaine-ihmc",
+        "id": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6327025, 46.5218269]
+      },
+      "properties": {
+        "name": "Ecole polytechnique f\u00e9d\u00e9rale de Lausanne_Digital Humanities Laboratory",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "url": "https://dhlab.epfl.ch/",
+        "id": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.889242, 49.5208469]
+      },
+      "properties": {
+        "name": "Editions Revue",
+        "city": "Differdange",
+        "country": "Luxembourg",
+        "url": "http://www.revue.lu/",
+        "id": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9850306, 49.4959628]
+      },
+      "properties": {
+        "name": "Editpress Luxembourg s.a.",
+        "city": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "url": "https://www.editpress.lu/",
+        "id": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.47775, 51.9244424]
+      },
+      "properties": {
+        "name": "Erasmus University Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "url": "https://www.eur.nl/en",
+        "id": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Etat du Grand-Duch\u00e9 de Luxembourg",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "www.etat.lu",
+        "id": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351697, 50.8465573]
+      },
+      "properties": {
+        "name": "European Commission ERC",
+        "city": "Brussels",
+        "country": "Belgium",
+        "url": "https://ec.europa.eu/",
+        "id": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2556404, 43.7697955]
+      },
+      "properties": {
+        "name": "European University Institute",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://www.eui.eu/",
+        "id": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3113461, 52.0799838]
+      },
+      "properties": {
+        "name": "Europeana",
+        "city": "The Hague",
+        "country": "Netherlands",
+        "url": "https://www.europeana.eu/portal/en",
+        "id": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.0591397, 52.4009309]
+      },
+      "properties": {
+        "name": "Fachhochschule Potsdam",
+        "city": "Potsdam",
+        "country": "Germany",
+        "url": "https://www.fh-potsdam.de/",
+        "id": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Fondation du M\u00e9rite europ\u00e9en",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.merite-europeen.eu/",
+        "id": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0673211, 49.5660842]
+      },
+      "properties": {
+        "name": "Fondation La Luxembougeoise",
+        "city": "Leudelange",
+        "country": "Luxembourg",
+        "url": "https://www.editus.lu/fr/fondation-la-luxembourgeoise-leudelange-1930040",
+        "id": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.34955336942806, 50.821212700000004]
+      },
+      "properties": {
+        "name": "Fondation Robert Triffin International",
+        "city": "Bruxelles/Louvain",
+        "country": "Belgium",
+        "url": "http://www.triffininternational.eu/",
+        "id": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9850306, 49.4959628]
+      },
+      "properties": {
+        "name": "Fonds National de la Recherche",
+        "city": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "url": "http://www.fnr.lu",
+        "id": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3989367, 52.510885]
+      },
+      "properties": {
+        "name": "Free University Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "url": "https://www.fu-berlin.de/en/index.html",
+        "id": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.4523988, 52.7216164]
+      },
+      "properties": {
+        "name": "G.R. Derzhavin Tambov State University",
+        "city": "Tambov",
+        "country": "Russian Federation",
+        "url": "http://www.tsutmb.ru/international/internatioanal_students_in_tsu/derzhavin_tambov_state_university",
+        "id": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.9351811, 51.5328328]
+      },
+      "properties": {
+        "name": "Georg-August-Universit\u00e4t G\u00f6ttingen",
+        "city": "G\u00f6ttingen",
+        "country": "Germany",
+        "url": "https://www.uni-goettingen.de/de/die+universit%c3%a4t/50217.html",
+        "id": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.016221, 47.0103814]
+      },
+      "properties": {
+        "name": "George Mason University _ Roy Rosenzweig Center for History and New Media",
+        "city": "Fairfax Washington?",
+        "country": "United States of America",
+        "url": "https://rrchnm.org/",
+        "id": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1774322, 41.3828939]
+      },
+      "properties": {
+        "name": "Happy Scribe",
+        "city": "Barcelona",
+        "country": "Spain",
+        "url": "https://www.happyscribe.com/",
+        "id": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6736295, 49.8851869]
+      },
+      "properties": {
+        "name": "Hochschule Darmstadt",
+        "city": "Darmstadt",
+        "country": "Germany",
+        "url": "https://h-da.de/",
+        "id": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351697, 50.8465573]
+      },
+      "properties": {
+        "name": "House of European History",
+        "city": "Brussels",
+        "country": "Belgium",
+        "url": "https://historia-europa.ep.eu/",
+        "id": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4521749, 46.9484742]
+      },
+      "properties": {
+        "name": "infoclio.ch",
+        "city": "Bern",
+        "country": "Switzerland",
+        "url": "https://www.infoclio.ch/en/home",
+        "id": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5435019, 48.1568291]
+      },
+      "properties": {
+        "name": "Institut f\u00fcr Zeitgeschichte",
+        "city": "M\u00fcnchen/Berlin",
+        "country": "Germany",
+        "url": "http://www.ifz-muenchen.de/",
+        "id": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Institut Historique Allemand",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://www.dhi-paris.fr/fr/page-daccueil.html",
+        "id": 86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Institut national de la statistique et des \u00e9tudes \u00e9conomiques du Grand-Duch\u00e9 de Luxembourg",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "www.statec.lu",
+        "id": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Institut Pierre Werner",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://www.ipw.lu/accueil",
+        "id": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.9772795, 45.8130967]
+      },
+      "properties": {
+        "name": "Institute of Ethnology and Folklore Research",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "http://www.ief.hr/Home/tabid/108/language/en-US/Default.aspx",
+        "id": 89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.071432235636493, 52.2337172]
+      },
+      "properties": {
+        "name": "Institute of Philosophy and Sociology - PAS",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://ifispan.pl/en/",
+        "id": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3989367, 52.510885]
+      },
+      "properties": {
+        "name": "International Standing Conference for the History of Education",
+        "city": "Berlin",
+        "country": "Germany",
+        "url": "http://www.ische.org/",
+        "id": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.2736253, 49.9995205]
+      },
+      "properties": {
+        "name": "Johannes Gutenberg Universit\u00e4t Mainz_Institut f\u00fcr Film-, Theater- und empirische Kulturwissenschaft",
+        "city": "Mainz",
+        "country": "Germany",
+        "url": "https://www.iftek.uni-mainz.de/",
+        "id": 94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.610759, 39.2908816]
+      },
+      "properties": {
+        "name": "Johns Hopkins University ",
+        "city": "Baltimore",
+        "country": "United States of America",
+        "url": "https://www.jhu.edu/",
+        "id": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Juridictions administratives",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.justice.public.lu/fr/jurisprudence/juridictions-administratives/index.php",
+        "id": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.69381607080086, 50.5808795]
+      },
+      "properties": {
+        "name": "Justus-Liebig-Universit\u00e4t ",
+        "city": "Gie\u00dfen",
+        "country": "Germany",
+        "url": "https://www.uni-giessen.de",
+        "id": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4034195, 49.0068705]
+      },
+      "properties": {
+        "name": "Karlsruhe Institut f\u00fcr Technologie_Institut f\u00fcr Geschichte",
+        "city": "Karlsruhe",
+        "country": "Germany",
+        "url": "http://www.geschichte.kit.edu/",
+        "id": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.7011675, 50.879202]
+      },
+      "properties": {
+        "name": "Katholieke Universiteit Leuven",
+        "city": "Leuven",
+        "country": "Belgium",
+        "url": "https://www.kuleuven.be",
+        "id": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.14405508452768728, 51.4893335]
+      },
+      "properties": {
+        "name": "King's College _ Institute of Contemporary British History",
+        "city": "London",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "https://www.kcl.ac.uk/study/offer-holders/postgraduate/social-science-and-public-policy/institute-of-contemporary-british-history.aspx",
+        "id": 101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6800198, 48.1113387]
+      },
+      "properties": {
+        "name": "L'universit\u00e9 Rennes 2",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://www.univ-rennes2.fr/",
+        "id": 102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0673211, 49.5660842]
+      },
+      "properties": {
+        "name": "La Luxembourgeoise",
+        "city": "Leudelange",
+        "country": "Luxembourg",
+        "url": "https://www.lalux.lu/",
+        "id": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "La Soci\u00e9t\u00e9 Nationale des Chemins de Fer Luxembourgeois",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.cfl.lu",
+        "id": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Laboratoire d'Excellence \"Ecrire une nouvelle histoire de l'Europe\"",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://labex-ehne.fr/",
+        "id": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1466014, 46.2017559]
+      },
+      "properties": {
+        "name": "Le Temps",
+        "city": "Gen\u00e8ve",
+        "country": "Switzerland",
+        "url": "https://www.letemps.ch/",
+        "id": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.2736253, 49.9995205]
+      },
+      "properties": {
+        "name": "Leibniz Institut f\u00fcr Europ\u00e4ische Geschichte",
+        "city": "Mainz",
+        "country": "Germany",
+        "url": "https://www.ieg-mainz.de/",
+        "id": 109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351697, 50.8465573]
+      },
+      "properties": {
+        "name": "Les Archives du Conseil de l'Union europ\u00e9enne",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "url": "https://www.consilium.europa.eu/fr/documents-publications/archives/",
+        "id": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "L\u00ebtzebuerg City Museum",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://citymuseum.lu/",
+        "id": 113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1929449, 55.7029296]
+      },
+      "properties": {
+        "name": "Lund University",
+        "city": "Lund",
+        "country": "Sweden",
+        "url": "https://www.lunduniversity.lu.se/",
+        "id": 114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Luxembourg house of cybersecurity",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://circl.lu/",
+        "id": 115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9850306, 49.4959628]
+      },
+      "properties": {
+        "name": "Luxembourg Institute of Science and Technology",
+        "city": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "url": "http://www.list.lu",
+        "id": 116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9850306, 49.4959628]
+      },
+      "properties": {
+        "name": "Luxembourg National Research Fund",
+        "city": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "url": "https://www.fnr.lu/",
+        "id": 118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3345898, 45.4371908]
+      },
+      "properties": {
+        "name": "M9 museum",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "https://www.m9museum.it",
+        "id": 119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Magnum Foundation",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://www.magnumfoundation.org/",
+        "id": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.0635282, 50.6365654]
+      },
+      "properties": {
+        "name": "Maison europ\u00e9enne des sciences de l'homme et de la soci\u00e9t\u00e9",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://www.meshs.fr/page/accueil",
+        "id": 121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.5922806, 53.3830239]
+      },
+      "properties": {
+        "name": "Maynooth University Arts and Humanities Institute",
+        "city": "Maynooth",
+        "country": "Ireland",
+        "url": "https://www.maynoothuniversity.ie/foras-feasa",
+        "id": 122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "MEMOSHOAH A.S.B.L",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.memoshoah.lu",
+        "id": 123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Minist\u00e8re d'Etat",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://me.gouvernement.lu/fr.html",
+        "id": 124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Minist\u00e8re de l'Education nationale, de l'Enfance et de la Jeunesse",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://men.public.lu/fr.html",
+        "id": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Minist\u00e8re de la Culture",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://mc.gouvernement.lu/fr.html",
+        "id": 127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Minist\u00e8re de la Justice",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://mjust.gouvernement.lu/fr.html",
+        "id": 128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Minist\u00e8re des Affaires Etrang\u00e8res et Europ\u00e9ennes",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://maee.gouvernement.lu/fr.html",
+        "id": 129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Minist\u00e8re du Travail, de l'Emploi et de l'Economie sociale et solidaire",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "",
+        "id": 130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.996379, 49.234362]
+      },
+      "properties": {
+        "name": "Ministerium f\u00fcr Bildung und Kultur Saarland",
+        "city": "Saarbr\u00fccken",
+        "country": "Germany",
+        "url": "https://www.saarland.de/ministerium_bildung_kultur.htm",
+        "id": 131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1600549, 49.8690898]
+      },
+      "properties": {
+        "name": "Mus\u00e9e National d'Hhistoire Militaire",
+        "city": "Diekirch",
+        "country": "Luxembourg",
+        "url": "http://www.mnhm.net/cms/index.php/de/",
+        "id": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Mus\u00e9e National d'Histoire et d'Art",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://www.mnha.lu/",
+        "id": 133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9850306, 49.4959628]
+      },
+      "properties": {
+        "name": "Mus\u00e9e national de la R\u00e9sistance",
+        "city": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "url": "https://musee-resistance.lu/en/welcome/",
+        "id": 135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5410422, 47.3744489]
+      },
+      "properties": {
+        "name": "Neue Z\u00fcricher Zeitung",
+        "city": "Z\u00fcrich",
+        "country": "Switzerland",
+        "url": "https://www.nzz.ch/",
+        "id": 136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8924534, 52.3730796]
+      },
+      "properties": {
+        "name": "NIOD Institute for War, Holocaust and Genocide Studies",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "url": "https://www.niod.nl/en",
+        "id": 138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.5922806, 53.3830239]
+      },
+      "properties": {
+        "name": "NUIM National University of Ireland Maynooth",
+        "city": "Maynooth",
+        "country": "Ireland",
+        "url": "https://www.maynoothuniversity.ie/",
+        "id": 140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3113461, 52.0799838]
+      },
+      "properties": {
+        "name": "NWO Social Sciences and Humanities",
+        "city": "The Hague",
+        "country": "Netherlands",
+        "url": "https://www.nwo.nl/en/about-nwo/organisation/nwo-domains/sgw",
+        "id": 141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3725042, 48.2083537]
+      },
+      "properties": {
+        "name": "\u00d6sterreichische Akademie der Wissenschaften",
+        "city": "Wien",
+        "country": "Austria",
+        "url": "https://www.oeaw.ac.at/",
+        "id": 142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.7704695, 50.8090106]
+      },
+      "properties": {
+        "name": "Philipps-Universit\u00e4t Marburg",
+        "city": "Marburg",
+        "country": "Germany",
+        "url": "https://www.uni-marburg.de/",
+        "id": 144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.997153435836697, 50.0469432]
+      },
+      "properties": {
+        "name": "Polish oral history association",
+        "city": "Krakow",
+        "country": "Poland",
+        "url": "http://pthm.pl/en/740-2/",
+        "id": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Post Group Luxembourg",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://www.postgroup.lu/",
+        "id": 146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Radio 100,7",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://www.100komma7.lu/",
+        "id": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Repr\u00e9sentation de la Commission europ\u00e9enne au Luxembourg",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://ec.europa.eu/luxembourg/home_fr",
+        "id": 149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.14405508452768728, 51.4893335]
+      },
+      "properties": {
+        "name": "Rothschild Foundation Hanadiv Europe",
+        "city": "London",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "https://rothschildfoundation.eu/",
+        "id": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.083862, 50.776351]
+      },
+      "properties": {
+        "name": "RWTH Aachen University",
+        "city": "Aachen",
+        "country": "Germany",
+        "url": "https://www.rwth-aachen.de/",
+        "id": 151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0501598, 49.6106029]
+      },
+      "properties": {
+        "name": "Samsa Film",
+        "city": "Bertrange",
+        "country": "Luxembourg",
+        "url": "http://www.samsa.lu/",
+        "id": 152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4521749, 46.9484742]
+      },
+      "properties": {
+        "name": "Schweizerische Nationalbibliothek",
+        "city": "Bern",
+        "country": "Switzerland",
+        "url": "https://www.nb.admin.ch/snl/de/home.html",
+        "id": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Service National de la Jeunesse",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://www.snj.public.lu/",
+        "id": 155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3997081, 51.2211097]
+      },
+      "properties": {
+        "name": "Sint Lucas Antwerpen",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "url": "https://www.sintlucasantwerpen.be/",
+        "id": 157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Soci\u00e9t\u00e9 nationale des chemins de fer luxembourgeois",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.cfl.lu/fr",
+        "id": 158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Syndicat d'int\u00e9r\u00eats locaux Pfafeffenthal-Siechenhof",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "http://www.pfaffenthal.info/2009/01/bienvenue-sur-le-site-du-syndicat_22.html",
+        "id": 159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7737237, 49.4469472]
+      },
+      "properties": {
+        "name": "Technische Universit\u00e4t Kaiserlautern",
+        "city": "Kaiserlautern",
+        "country": "Germany",
+        "url": "https://www.uni-kl.de",
+        "id": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.071432235636493, 52.2337172]
+      },
+      "properties": {
+        "name": "The Institute of Literary Research of the Polish Academy of Sciences (IBL PAN)",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "http://ibl.waw.pl/en/abouttheinstitute/the-institute-of-literary-research-of-the-polish-academy-of-sciences",
+        "id": 161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2605593, 53.3493795]
+      },
+      "properties": {
+        "name": "Trinity College Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "url": "https://www.tcd.ie/",
+        "id": 163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.304316311493196, 63.82177625]
+      },
+      "properties": {
+        "name": "Ume\u00e5 University _ Humlab",
+        "city": "Ume\u00e5 University",
+        "country": "Sweden",
+        "url": "http://www.humlab.umu.se/en",
+        "id": 164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "UNESCO Archives",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://www.unesco.org/archives/new2010/index.html",
+        "id": 165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351697, 50.8465573]
+      },
+      "properties": {
+        "name": "Union europ\u00e9enne",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "url": "",
+        "id": 166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.996379, 49.234362]
+      },
+      "properties": {
+        "name": "Universit\u00e4t des Saarlandes",
+        "city": "Saarbr\u00fccken",
+        "country": "Germany",
+        "url": "https://www.uni-saarland.de",
+        "id": 167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.0591397, 52.4009309]
+      },
+      "properties": {
+        "name": "Universit\u00e4t Potsdam",
+        "city": "Potsdam",
+        "country": "Germany",
+        "url": "http://www.uni-potsdam.de/en/",
+        "id": 169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6441878, 49.7596208]
+      },
+      "properties": {
+        "name": "Universit\u00e4t Trier _ Trier Center for Digital Humanities",
+        "city": "Trier",
+        "country": "Germany",
+        "url": "http://kompetenzzentrum.uni-trier.de/de/",
+        "id": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5410422, 47.3744489]
+      },
+      "properties": {
+        "name": "Universit\u00e4t Z\u00fcrich",
+        "city": "Z\u00fcrich",
+        "country": "Switzerland",
+        "url": "https://www.ethz.ch",
+        "id": 171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.613790587187648, 50.6741689]
+      },
+      "properties": {
+        "name": "Universit\u00e9 catholique de Louvain _ Centre d'\u00e9tudes europ\u00e9ennes",
+        "city": "Louvain-la-Neuve",
+        "country": "Belgium",
+        "url": "https://uclouvain.be/fr/instituts-recherche/ispole/cee",
+        "id": 172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5800364, 44.841225]
+      },
+      "properties": {
+        "name": "Universit\u00e9 de Bordeaux",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "www.u-bordeaux.fr",
+        "id": 173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6327025, 46.5218269]
+      },
+      "properties": {
+        "name": "Universit\u00e9 de Lausanne_Section histoire",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "url": "http://www.unil.ch/hist/home.html",
+        "id": 175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.5736112, 50.6450944]
+      },
+      "properties": {
+        "name": "Universit\u00e9 de Li\u00e8ge",
+        "city": "Li\u00e8ge",
+        "country": "Belgium",
+        "url": "https://www.uliege.be",
+        "id": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1834097, 48.6937223]
+      },
+      "properties": {
+        "name": "Universit\u00e9 de Lorraine",
+        "city": "Nancy",
+        "country": "France",
+        "url": "http://www.univ-lorraine.fr/",
+        "id": 179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351697, 50.8465573]
+      },
+      "properties": {
+        "name": "Universit\u00e9 Libre de Bruxelles",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "url": "http://www.ulb.ac.be/",
+        "id": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.0388736, 49.0527528]
+      },
+      "properties": {
+        "name": "Universit\u00e9 Paris Seine \u00c9cole d'ing\u00e9nieurs - Math\u00e9matiques - Informatique",
+        "city": "Cergy-Pontoise",
+        "country": "France",
+        "url": "http://eisti.fr/fr/lecole",
+        "id": 181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Universit\u00e9 Paris-Est",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://www.univ-paris-est.fr/",
+        "id": 182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3200410217200766, 48.8588897]
+      },
+      "properties": {
+        "name": "Universit\u00e9 Paris-Sorbonne",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://www.english.paris-sorbonne.fr/?lang=fr",
+        "id": 183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6800198, 48.1113387]
+      },
+      "properties": {
+        "name": "Universit\u00e9 Rennes 2",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://www.univ-rennes2.fr/",
+        "id": 184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7955844, 56.3403902]
+      },
+      "properties": {
+        "name": "University court of the university of St Andrews",
+        "city": "Saint Andrews",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "https://www.st-andrews.ac.uk/about/governance/court/",
+        "id": 185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3699525, 43.2961743]
+      },
+      "properties": {
+        "name": "University of Aix-Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "url": "",
+        "id": 186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8924534, 52.3730796]
+      },
+      "properties": {
+        "name": "University of Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "url": "http://www.uva.nl/en/home",
+        "id": 187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3997081, 51.2211097]
+      },
+      "properties": {
+        "name": "University of Antwerp",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "url": "https://www.uantwerpen.be/en/",
+        "id": 188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.9026911, 52.4796992]
+      },
+      "properties": {
+        "name": "University of Birmingham",
+        "city": "Birmingham",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "https://www.birmingham.ac.uk/index.aspx",
+        "id": 189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1400561, 50.8214626]
+      },
+      "properties": {
+        "name": "University of Brighton",
+        "city": "Brighton",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "",
+        "id": 190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.272863, 37.8708393]
+      },
+      "properties": {
+        "name": "University of California",
+        "city": "Berkeley",
+        "country": "United States of America",
+        "url": "https://www.universityofcalifornia.edu/",
+        "id": 191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2923954, 52.6285576]
+      },
+      "properties": {
+        "name": "University of East Anglia ",
+        "city": "Norwich",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "https://www.uea.ac.uk/",
+        "id": 192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5680077, 53.2190652]
+      },
+      "properties": {
+        "name": "University of Groningen (NL)",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "url": "",
+        "id": 193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.935960870530739, 44.5384728]
+      },
+      "properties": {
+        "name": "University of Modena and Reggio Emilia",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "http://www.international.unimore.it/",
+        "id": 194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7077751, 40.8088861]
+      },
+      "properties": {
+        "name": "University of Nebraska-Lincoln",
+        "city": "Lincoln",
+        "country": "United States of America",
+        "url": "https://www.unl.edu/",
+        "id": 195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1496461, 52.9534193]
+      },
+      "properties": {
+        "name": "University of Nottingham",
+        "city": "Nottingham",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "https://www.nottingham.ac.uk/",
+        "id": 196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.242766, 34.0536909]
+      },
+      "properties": {
+        "name": "University of South California",
+        "city": "Los Angeles",
+        "country": "United States of America",
+        "url": "https://www.usc.edu/",
+        "id": 197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.17030545534064, 37.426540700000004]
+      },
+      "properties": {
+        "name": "University of Stanford _ Center for Spatial and Textual Analysis",
+        "city": "Stanford",
+        "country": "United States of America",
+        "url": "https://cesta.stanford.edu/",
+        "id": 198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1400561, 50.8214626]
+      },
+      "properties": {
+        "name": "University of Sussex",
+        "city": "Brighton",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "http://www.sussex.ac.uk/",
+        "id": 199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.14405508452768728, 51.4893335]
+      },
+      "properties": {
+        "name": "University of Westminster",
+        "city": "London",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "",
+        "id": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.0326689, 51.1089776]
+      },
+      "properties": {
+        "name": "University of Wroclaw",
+        "city": "Wroclaw",
+        "country": "Poland",
+        "url": "https://international.uni.wroc.pl/en",
+        "id": 201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0743052444639218, 53.96565785]
+      },
+      "properties": {
+        "name": "University of York",
+        "city": "York",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "url": "https://www.york.ac.uk/",
+        "id": 202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5410422, 47.3744489]
+      },
+      "properties": {
+        "name": "University of Zurich _ Institute of Computational Linguistics",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "url": "http://www.cl.uzh.ch/en.html",
+        "id": 203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0847792, 49.4786477]
+      },
+      "properties": {
+        "name": "Ville de Dudelange",
+        "city": "Dudelange",
+        "country": "Luxembourg",
+        "url": "www.dudelange.lu",
+        "id": 204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9850306, 49.4959628]
+      },
+      "properties": {
+        "name": "Ville de Esch-sur-Alzette",
+        "city": "Esch-sur-Alzette",
+        "country": "Luxembourg",
+        "url": "https://esch.lu/",
+        "id": 205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2829111, 54.6870458]
+      },
+      "properties": {
+        "name": "Vilnius University",
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "url": "https://www.vu.lt/en",
+        "id": 206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5410422, 47.3744489]
+      },
+      "properties": {
+        "name": "Werner Bischof Estate",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "url": "http://www.wernerbischof.com/de/main.html",
+        "id": 207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.0402383, 47.4978789]
+      },
+      "properties": {
+        "name": "Zachor Foundation for Social Remembrance",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://www.zachorfoundation.org/",
+        "id": 208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.129799, 49.6112768]
+      },
+      "properties": {
+        "name": "Zentrum f\u00fcr politische Bildung",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "url": "https://zpb.lu/",
+        "id": 209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5698065, 45.5031824]
+      },
+      "properties": {
+        "name": "Centre de recherche interuniversitaire sur les humanit\u00e9s",
+        "city": "Montr\u00e9al",
+        "country": "Canada",
+        "url": "https://www.crihn.org/",
+        "id": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351697, 50.8465573]
+      },
+      "properties": {
+        "name": "OPEN ACCESS IN THE EUROPEAN RESEARCH AREA THROUGH SCHOLARLY COMMUNICATION (OPERAS)",
+        "city": "Brussels",
+        "country": "Belgium",
+        "url": "https://operas-eu.org",
+        "id": 211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5698065, 45.5031824]
+      },
+      "properties": {
+        "name": "Universit\u00e9 du Queb\u00e9c",
+        "city": "Montr\u00e9al",
+        "country": "Canada",
+        "url": "https://reseau.uquebec.ca/fr",
+        "id": 212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.2080905, -5.805398]
+      },
+      "properties": {
+        "name": "Universidade Federal do Rio Grande do Norte",
+        "city": "Natal",
+        "country": "Brasil",
+        "url": "https://www.ufrn.br/",
+        "id": 213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7319925, 35.6896342]
+      },
+      "properties": {
+        "name": "German Institute for Japanese Studies",
+        "city": "Tokyo",
+        "country": "Japan",
+        "url": "https://www.dijtokyo.org/",
+        "id": 214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7319925, 35.6896342]
+      },
+      "properties": {
+        "name": "Center for Open Data in the Humanities (CODH)",
+        "city": "Tokyo",
+        "country": "Japan",
+        "url": "https://codh.rois.ac.jp/",
+        "id": 215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.7680294, 35.0116363]
+      },
+      "properties": {
+        "name": "International Research Center for Japanese Studies (NCHIBUNKEN)",
+        "city": "Kyoto",
+        "country": "Japan",
+        "url": "https://www.nichibun.ac.jp/",
+        "id": 216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.223295, 35.723774]
+      },
+      "properties": {
+        "name": "National Museum of Japanese History",
+        "city": "Sakura City",
+        "country": "Japan",
+        "url": "https://www.rekihaku.ac.jp/",
+        "id": 217
+      }
+    }
+  ]
+}
