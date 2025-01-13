@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Aarhus University",
+        "city": "Aarhus",
+        "onmap": true,
+        "country": "Denmark",
+        "url": "http://www.au.dk/en/",
+        "axe": "DHI",
+        "projects": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.2039, 56.1629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "André Losch Fondation",
+        "city": "Howald",
+        "onmap": true,
+        "country": "Luxembourg",
+        "url": "",
+        "axe": "",
+        "projects": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.15, 49.5767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Andrew Mellon Foundation",
+        "city": "New York, NY",
+        "onmap": true,
+        "country": "United States of America",
+        "url": "https://mellon.org/",
+        "axe": "",
+        "projects": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.006, 40.7128]
+      }
+    }
+  ]
+}
