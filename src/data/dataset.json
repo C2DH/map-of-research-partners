@@ -2534,6 +2534,62 @@
         "url": "",
         "id": 218
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.045585, -26.190617]
+      },
+      "properties": {
+        "name": "Faculty of Art Design and Architecture, University of Johannesburg",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://www.uj.ac.za/faculties/fada",
+        "id": 219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.2104872, -22.8748535]
+      },
+      "properties": {
+        "name": "Fundação Oswaldo Cruz",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "url": "https://portal.fiocruz.br/",
+        "id": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.063239, -22.817642]
+      },
+      "properties": {
+        "name": "Center of Digital Humanities (CHD) of the Institute of Philosophy and Human Sciences (IFCH) of the State University of Campinas (Unicamp)",
+        "city": "Campinas",
+        "country": "Brazil",
+        "url": "https://www.ifch.unicamp.br/ifch/CHD",
+        "id": 221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.074814, -10.947247]
+      },
+      "properties": {
+        "name": "Department of History at the Federal University of Sergipe",
+        "city": "Aracaju",
+        "country": "Brazil",
+        "url": "https://www.ufs.br/",
+        "id": 222
+      }
     }
   ]
 }

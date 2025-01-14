@@ -29,11 +29,11 @@ const QuickMapbox = ({
 
       // center: features[0].geometry.coordinates as [number, number], // Initial center (adjust as needed)
       zoom: 9,
-      projection: {
-        name: 'equalEarth',
-        center: [6.1296, 49.8153],
-        // parallels: [90, 90],
-      },
+      // projection: {
+      //   name: 'equalEarth',
+      //   center: [6.1296, 49.8153],
+      //   // parallels: [90, 90],
+      // },
     })
     newMap.on('load', () => {
       // Add source for points
@@ -59,19 +59,19 @@ const QuickMapbox = ({
         },
       })
       // Add layer to display property names
-      newMap.addLayer({
-        id: 'property-names-layer',
-        type: 'symbol',
-        source: 'points',
-        layout: {
-          'text-field': ['get', 'city'], // Assumes the property name is 'name'
-          'text-size': 12,
-          'text-offset': [0, 1.5],
-        },
-        paint: {
-          'text-color': '#000000',
-        },
-      })
+      // newMap.addLayer({
+      //   id: 'property-names-layer',
+      //   type: 'symbol',
+      //   source: 'points',
+      //   layout: {
+      //     'text-field': ['get', 'city'], // Assumes the property name is 'name'
+      //     'text-size': 12,
+      //     'text-offset': [0, 1.5],
+      //   },
+      //   paint: {
+      //     'text-color': '#000000',
+      //   },
+      // })
 
       // Handle click event on points
       newMap.on('click', 'points-layer', (e) => {
@@ -83,7 +83,7 @@ const QuickMapbox = ({
       })
 
       // Change cursor to pointer on hover
-      newMap.on('mouseenter', 'points-layer', (e) => {
+      newMap.on('mouseenter', 'points-layer', (_e) => {
         // const features = e.features as unknown as Feature<Point>[]
         newMap.getCanvas().style.cursor = 'pointer'
       })

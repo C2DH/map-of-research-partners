@@ -1,0 +1,45 @@
+name: Build and publish for GitHub pages
+on:
+  # Trigger the workflow on push or pull request,
+  # for the develop branch and all new tags
+  push:
+    branches:
+      - develop
+      - main
+  workflow_dispatch:
+jobs:
+  buildghpages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository using git
+        uses: actions/checkout@v4
+      - name: Get al env variables
+        run: |
+          echo "VITE_GIT_COMMIT_SHA=$(echo $GITHUB_SHA | cut -c1-7)" >> $GITHUB_ENV
+          echo "VITE_BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
+          echo "VITE_GIT_BRANCH=$(echo $GITHUB_REF | sed 's/refs\/heads\///')" >> $GITHUB_ENV
+          echo "VITE_GIT_REMOTE=$(git config --get remote.origin.url)" >> $GITHUB_ENV
+          echo "VITE_GIT_TAG=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
+          echo "VITE_GIT_REMOTE=$(git config --get remote.origin.url)" >> $GITHUB_ENV
+          echo "VITE_VERSION=latest-gh" >> $GITHUB_ENV
+      - name: Install, build, and upload your site
+        run: |
+          npm install
+          npm run build -- --base /map-of-research-partners/
+
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
+        with:
+          path: dist/
+
+  deployghpages:
+    needs: buildghpages
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
