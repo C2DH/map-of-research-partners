@@ -12,9 +12,6 @@ const QuickMapbox = ({
   features: Feature<Point>[]
   mapboxStyle?: string
 }) => {
-  const markers = useRef<
-    Record<string | number, { id: number; el: HTMLDivElement }>
-  >({})
   const mapContainer = useRef(null)
   const [map, setMap] = useState<mapboxgl.Map | null>(null)
   const setSelectedFeature = useStore((state) => state.setSelectedFeature)
@@ -22,14 +19,21 @@ const QuickMapbox = ({
     // Initialize mapboxgl with your access token
     mapboxgl.accessToken = mapboxAccessToken
     const container = mapContainer.current
-    if (!container) {
+    if (!container || map !== null) {
       return
     }
     const newMap = new mapboxgl.Map({
       container,
       style: mapboxStyle, // Choose a style
-      center: features[0].geometry.coordinates as [number, number], // Initial center (adjust as needed)
+      center: [6.1296, 49.8153], // Luxembourg coordinates
+
+      // center: features[0].geometry.coordinates as [number, number], // Initial center (adjust as needed)
       zoom: 9,
+      projection: {
+        name: 'equalEarth',
+        center: [6.1296, 49.8153],
+        // parallels: [90, 90],
+      },
     })
     newMap.on('load', () => {
       // Add source for points
@@ -54,20 +58,20 @@ const QuickMapbox = ({
           'circle-opacity': 0.5, // Make the circles semitransparent
         },
       })
-      // // Add layer to display property names
-      // newMap.addLayer({
-      //   id: 'property-names-layer',
-      //   type: 'symbol',
-      //   source: 'points',
-      //   layout: {
-      //     'text-field': ['get', 'name'], // Assumes the property name is 'name'
-      //     'text-size': 12,
-      //     'text-offset': [0, 1.5],
-      //   },
-      //   paint: {
-      //     'text-color': '#000000',
-      //   },
-      // })
+      // Add layer to display property names
+      newMap.addLayer({
+        id: 'property-names-layer',
+        type: 'symbol',
+        source: 'points',
+        layout: {
+          'text-field': ['get', 'city'], // Assumes the property name is 'name'
+          'text-size': 12,
+          'text-offset': [0, 1.5],
+        },
+        paint: {
+          'text-color': '#000000',
+        },
+      })
 
       // Handle click event on points
       newMap.on('click', 'points-layer', (e) => {
@@ -94,11 +98,11 @@ const QuickMapbox = ({
 
     // Clean up on component unmount
     return () => {
-      if (map) {
-        map.remove()
+      if (newMap) {
+        newMap.remove()
       }
     }
-  }, [mapboxAccessToken, features])
+  }, [])
 
   // Fetch initial state
   const scratchRef = useRef(
@@ -119,8 +123,7 @@ const QuickMapbox = ({
         if (!map) return
         map.flyTo({
           center: scratchRef.current?.geometry.coordinates as [number, number],
-          zoom: 10,
-          duration: 5000,
+          zoom: 13,
         })
         console.info('GOOO! to', scratchRef.current?.geometry.coordinates)
       }),

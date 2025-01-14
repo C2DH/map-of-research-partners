@@ -50,12 +50,12 @@ function App() {
       <aside className='p-3 position-absolute' style={{ width: 200, right: 0 }}>
         {SortedLabelsByCountry.map(([country, cities]) => (
           <div key={country}>
-            <h3 className='position-sticky mb-2 border-dark border-bottom top-0 p-2 bg-light'>
+            <h3 className='position-sticky mb-2 border-dark border-bottom top-0 py-2 bg-light'>
               {country}
             </h3>
             {Object.entries(cities).map(([city, features]) => (
               <div key={city}>
-                <h4>{city}</h4>
+                <h4 className=' border-dark border-bottom py-2'>{city}</h4>
                 <ul className='list-unstyled'>
                   {features.map((feature) => (
                     <li key={feature.properties.id}>
