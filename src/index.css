@@ -6,3 +6,24 @@
   z-index: 2;
   pointer-events: none;
 }
+
+.App li {
+  padding: 5px;
+  border-radius: 5px;
+}
+.App li.active {
+  background-color: var(--bs-dark);
+}
+
+.App li.active button {
+  color: var(--bs-white);
+}
+
+.App li button {
+  text-decoration: none;
+  color: var(--bs-dark);
+}
+
+.font-size-inherit {
+  font-size: inherit;
+}
