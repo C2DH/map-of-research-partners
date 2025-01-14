@@ -1,7 +1,17 @@
 import { useRef, useLayoutEffect, useState, useEffect } from 'react'
 import mapboxgl from 'mapbox-gl' // Ensure this line is correct for your setup
 import type { Feature, Point } from 'geojson'
-import useStore from '../store'
+import { create } from 'zustand'
+
+interface StoreState {
+  selectedFeature: Feature | null
+  setSelectedFeature: (feature: Feature | null) => void
+}
+
+export const useStore = create<StoreState>()((set) => ({
+  selectedFeature: null,
+  setSelectedFeature: (feature) => set({ selectedFeature: feature }),
+}))
 
 const QuickMapbox = ({
   mapboxAccessToken,
@@ -92,6 +102,7 @@ const QuickMapbox = ({
       newMap.on('mouseleave', 'points-layer', () => {
         newMap.getCanvas().style.cursor = ''
       })
+      newMap.addControl(new mapboxgl.NavigationControl())
 
       setMap(newMap)
     })

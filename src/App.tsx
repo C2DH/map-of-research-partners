@@ -1,7 +1,8 @@
 import type { Feature, Point } from 'geojson'
+import { useStore } from './components/QuickMapbox'
 import QuickMapbox from './components/QuickMapbox'
 import dataset from './data/dataset.json'
-import useStore from './store'
+import Tooltip from './components/Tooltip'
 
 const Labels = dataset.features.reduce((acc, feature) => {
   const { city, country } = feature.properties
@@ -46,6 +47,12 @@ function App() {
           }
           features={dataset.features as Feature<Point>[]}
         />
+      </div>
+      <div
+        className='App__tooltip position-fixed top-0 start-0 p-3 d-flex justify-contents-center'
+        style={{ right: 200 }}
+      >
+        <Tooltip className='bg-dark text-white p-3' />
       </div>
       <aside className='p-3 position-absolute' style={{ width: 200, right: 0 }}>
         {SortedLabelsByCountry.map(([country, cities]) => (
