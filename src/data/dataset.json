@@ -891,7 +891,7 @@
       },
       "properties": {
         "name": "George Mason University _ Roy Rosenzweig Center for History and New Media",
-        "city": "Fairfax Washington?",
+        "city": "Fairfax, Washington",
         "country": "United States of America",
         "url": "https://rrchnm.org/",
         "id": 78
@@ -2519,6 +2519,20 @@
         "country": "Japan",
         "url": "https://www.rekihaku.ac.jp/",
         "id": 217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8219462, -1.2920659]
+      },
+      "properties": {
+        "name": "African Digital Heritage + Museum of British Colonialism",
+        "city": "Nairobi",
+        "country": "Kenya",
+        "url": "",
+        "id": 218
       }
     }
   ]
