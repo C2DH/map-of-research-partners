@@ -4,8 +4,7 @@ on:
   # for the develop branch and all new tags
   push:
     branches:
-      - develop
-      - main
+      - master
   workflow_dispatch:
 
 permissions:
