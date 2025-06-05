@@ -2590,6 +2590,47 @@
         "url": "https://www.ufs.br/",
         "id": 222
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.445152, 25.318901]
+      },
+      "properties": {
+        "name": "The Institute for Advanced Study in the Global South at Northwestern University Qatar",
+        "city": "Doha",
+        "country": "Qatar",
+        "url": "https://www.qatar.northwestern.edu/research/ias_nuq/",
+        "id": 223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.248189, 30.089074]
+      },
+      "properties": {
+        "name": "Shubra's Archive SARD",
+        "city": "Cairo",
+        "country": "Egypt",
+        "url": "https://shubrasarchive.com/",
+        "id": 224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.480694, 33.900847]
+      },
+      "properties": {
+        "name": "Heritage and Roots",
+        "city": "Beirut",
+        "country": "Lebanon",
+        "url": "https://heritageandroots.com/"
+      }
     }
   ]
 }
